@@ -3,7 +3,7 @@
 using namespace std;
 
 int suma_impar(int N){
-	int a;
+	int a, b;
 	
 	
 	
