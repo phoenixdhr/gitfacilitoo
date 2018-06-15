@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
-
+// para github
 int main(){
 
-int N;
+int N, aa;  //añadimos la variable aa es alternativa se puede eliminar
 double r,k,p;
 
 p=0;
